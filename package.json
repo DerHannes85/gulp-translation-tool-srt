@@ -1,7 +1,7 @@
 {
   "name": "gulp-translation-tool-srt",
   "description": "A plugin for Gulp to convert SRT files to translation tool xml format and back.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
