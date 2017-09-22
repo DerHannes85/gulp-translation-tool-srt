@@ -1,0 +1,24 @@
+{
+  "name": "gulp-translation-tool-srt",
+  "version": "0.0.0",
+  "description": "A plugin for Gulp to convert SRT files to translation tool xml format and back.",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Johannes Weil, UDG Ludwigsburg GmbH",
+    "email": "johannes.weil@udg.de",
+    "url": "www.udg.de"
+  },
+  "scripts": {},
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=7.8.0",
+    "npm": ">=4.2.0"
+  },
+  "license": "MIT"
+}
