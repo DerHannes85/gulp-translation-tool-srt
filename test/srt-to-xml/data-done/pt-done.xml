@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languageData>
 	<group name="pt">
-		<text id="1" time="00:00:01,200 --> 00:00:03,600"><![CDATA[Fracasso? O que é?]]></text>
-		<text id="2" time="00:00:10,900 --> 00:00:13,300"><![CDATA[Certo, já ouvi falar sobre isso.]]></text>
-		<text id="3" time="00:00:13,300 --> 00:00:18,300"><![CDATA[É uma coisa tão simples, tão clichê. ]]><br/><![CDATA[Não é possível ter sucesso sem falhar alguma vez.]]></text>
-		<text id="4" time="00:00:20,000 --> 00:00:23,400"><![CDATA[Para mim, ser destemido, arriscar é ]]><br/><![CDATA[um modo de estar na vida.]]></text>
-		<text id="5" time="00:00:23,400 --> 00:00:32,300"><![CDATA[Significa estar constantemente a descobrir, ser sempre curioso ]]><br/><![CDATA[e manter a esperança de que o caminho não tem fim.]]></text>
-		<text id="6" time="00:00:33,400 --> 00:00:40,400"><![CDATA[Tenho curiosidade pelas coisas. Curioso pelo mundo, ]]><br/><![CDATA[pelas diferentes culturas, pelos diferentes tipos de pessoas.]]></text>
-		<text id="7" time="00:00:40,400 --> 00:00:45,300"><![CDATA[E é a minha curiosidade e o meu egoísmo que ]]><br/><![CDATA[me impelem a saber mais sobre mim mesmo,]]></text>
-		<text id="8" time="00:00:45,300 --> 00:00:48,400"><![CDATA[que me motiva para novos projetos.]]></text>
-		<text id="9" time="00:00:48,400 --> 00:00:54,300"><![CDATA[Tenho muita sorte em ter encontrado um público ]]><br/><![CDATA[que me acompanha nesta jornada.]]></text>
-		<text id="10" time="00:00:55,100 --> 00:01:01,500"><![CDATA[Gosto de estar preparado, de analisar e de aprender, ]]><br/><![CDATA[para conhecer a minha perspetiva sobre algo de novo.]]></text>
-		<text id="11" time="00:01:01,500 --> 00:01:04,300"><![CDATA[Mas também não quero saber demais.]]></text>
-		<text id="12" time="00:01:04,300 --> 00:01:12,400"><![CDATA[Geralmente, utilizo duas abordagens : estar um ]]><br/><![CDATA[pouco preparado, mas também aberto a surpresas.]]></text>
+		<text id="1" time="00:00:01,200 --# 00:00:03,600"><![CDATA[Fracasso? O que é?]]></text>
+		<text id="2" time="00:00:10,900 --# 00:00:13,300"><![CDATA[Certo, já ouvi falar sobre isso.]]></text>
+		<text id="3" time="00:00:13,300 --# 00:00:18,300"><![CDATA[É uma coisa tão simples, tão clichê. ]]><br/><![CDATA[Não é possível ter sucesso sem falhar alguma vez.]]></text>
+		<text id="4" time="00:00:20,000 --# 00:00:23,400"><![CDATA[Para mim, ser destemido, arriscar é ]]><br/><![CDATA[um modo de estar na vida.]]></text>
+		<text id="5" time="00:00:23,400 --# 00:00:32,300"><![CDATA[Significa estar constantemente a descobrir, ser sempre curioso ]]><br/><![CDATA[e manter a esperança de que o caminho não tem fim.]]></text>
+		<text id="6" time="00:00:33,400 --# 00:00:40,400"><![CDATA[Tenho curiosidade pelas coisas. Curioso pelo mundo, ]]><br/><![CDATA[pelas diferentes culturas, pelos diferentes tipos de pessoas.]]></text>
+		<text id="7" time="00:00:40,400 --# 00:00:45,300"><![CDATA[E é a minha curiosidade e o meu egoísmo que ]]><br/><![CDATA[me impelem a saber mais sobre mim mesmo,]]></text>
+		<text id="8" time="00:00:45,300 --# 00:00:48,400"><![CDATA[que me motiva para novos projetos.]]></text>
+		<text id="9" time="00:00:48,400 --# 00:00:54,300"><![CDATA[Tenho muita sorte em ter encontrado um público ]]><br/><![CDATA[que me acompanha nesta jornada.]]></text>
+		<text id="10" time="00:00:55,100 --# 00:01:01,500"><![CDATA[Gosto de estar preparado, de analisar e de aprender, ]]><br/><![CDATA[para conhecer a minha perspetiva sobre algo de novo.]]></text>
+		<text id="11" time="00:01:01,500 --# 00:01:04,300"><![CDATA[Mas também não quero saber demais.]]></text>
+		<text id="12" time="00:01:04,300 --# 00:01:12,400"><![CDATA[Geralmente, utilizo duas abordagens : estar um ]]><br/><![CDATA[pouco preparado, mas também aberto a surpresas.]]></text>
 	</group>
 </languageData>

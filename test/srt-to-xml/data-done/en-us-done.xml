@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languageData>
 	<group name="en-us">
-		<text id="1" time="00:00:01,200 --> 00:00:03,500"><![CDATA[Failure? What is that? ]]></text>
-		<text id="2" time="00:00:10,900 --> 00:00:13,300"><![CDATA[Oh right, I've heard about that. ]]></text>
-		<text id="3" time="00:00:13,300 --> 00:00:18,300"><![CDATA[It's such a simple, such a cliché thing. ]]><br/><![CDATA[You can't succeed without failure. ]]></text>
-		<text id="4" time="00:00:20,000 --> 00:00:23,400"><![CDATA[For me venturing on is hopefully a lifestyle. ]]></text>
-		<text id="5" time="00:00:23,400 --> 00:00:32,300"><![CDATA[It's this idea of constantly discovering, constantly being ]]><br/><![CDATA[curious and constantly hoping that the road has no end.]]></text>
-		<text id="6" time="00:00:33,400 --> 00:00:40,400"><![CDATA[I'm curious about things. I'm curious about the world, ]]><br/><![CDATA[about different cultures, about different kinds of people, ]]></text>
-		<text id="7" time="00:00:40,400 --> 00:00:45,300"><![CDATA[and it's my curiosity and my selfishness of ]]><br/><![CDATA[wanting to find that out about myself, ]]></text>
-		<text id="8" time="00:00:45,300 --> 00:00:48,400"><![CDATA[that drives me to do new kinds of projects. ]]></text>
-		<text id="9" time="00:00:48,400 --> 00:00:54,300"><![CDATA[I'm very lucky though that I've been able to build ]]><br/><![CDATA[an audience that goes on that trip with me.]]></text>
-		<text id="10" time="00:00:55,100 --> 00:01:01,500"><![CDATA[In some ways I like to be very prepared and study and learn ]]><br/><![CDATA[about it and figure out what my point of view is going to be. ]]></text>
-		<text id="11" time="00:01:01,500 --> 00:01:04,300"><![CDATA[But I also don't want to know too much. ]]></text>
-		<text id="12" time="00:01:04,300 --> 00:01:12,400"><![CDATA[I kind of always approach in two ways, being somewhat ]]><br/><![CDATA[prepared and somewhat ready just to be surprised.]]></text>
+		<text id="1" time="00:00:01,200 --# 00:00:03,500"><![CDATA[Failure? What is that? ]]></text>
+		<text id="2" time="00:00:10,900 --# 00:00:13,300"><![CDATA[Oh right, I've heard about that. ]]></text>
+		<text id="3" time="00:00:13,300 --# 00:00:18,300"><![CDATA[It's such a simple, such a cliché thing. ]]><br/><![CDATA[You can't succeed without failure. ]]></text>
+		<text id="4" time="00:00:20,000 --# 00:00:23,400"><![CDATA[For me venturing on is hopefully a lifestyle. ]]></text>
+		<text id="5" time="00:00:23,400 --# 00:00:32,300"><![CDATA[It's this idea of constantly discovering, constantly being ]]><br/><![CDATA[curious and constantly hoping that the road has no end.]]></text>
+		<text id="6" time="00:00:33,400 --# 00:00:40,400"><![CDATA[I'm curious about things. I'm curious about the world, ]]><br/><![CDATA[about different cultures, about different kinds of people, ]]></text>
+		<text id="7" time="00:00:40,400 --# 00:00:45,300"><![CDATA[and it's my curiosity and my selfishness of ]]><br/><![CDATA[wanting to find that out about myself, ]]></text>
+		<text id="8" time="00:00:45,300 --# 00:00:48,400"><![CDATA[that drives me to do new kinds of projects. ]]></text>
+		<text id="9" time="00:00:48,400 --# 00:00:54,300"><![CDATA[I'm very lucky though that I've been able to build ]]><br/><![CDATA[an audience that goes on that trip with me.]]></text>
+		<text id="10" time="00:00:55,100 --# 00:01:01,500"><![CDATA[In some ways I like to be very prepared and study and learn ]]><br/><![CDATA[about it and figure out what my point of view is going to be. ]]></text>
+		<text id="11" time="00:01:01,500 --# 00:01:04,300"><![CDATA[But I also don't want to know too much. ]]></text>
+		<text id="12" time="00:01:04,300 --# 00:01:12,400"><![CDATA[I kind of always approach in two ways, being somewhat ]]><br/><![CDATA[prepared and somewhat ready just to be surprised.]]></text>
 	</group>
 </languageData>

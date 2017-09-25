@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languageData>
 	<group name="es">
-		<text id="1" time="00:00:01,200 --> 00:00:03,600"><![CDATA[¿Fracasar? ¿Eso qué es? ]]></text>
-		<text id="2" time="00:00:10,900 --> 00:00:13,300"><![CDATA[Es verdad, alguna vez lo he oído.]]></text>
-		<text id="3" time="00:00:13,300 --> 00:00:18,300"><![CDATA[Pero no es más que un tópico, porque no se puede tener éxito ]]><br/><![CDATA[sin haber fracasado alguna vez.]]></text>
-		<text id="4" time="00:00:20,000 --> 00:00:23,400"><![CDATA[Atreverse con algo es un modo de vida para mí.]]></text>
-		<text id="5" time="00:00:23,400 --> 00:00:32,300"><![CDATA[Significa descubrir cosas continuamente, tener curiosidad ]]><br/><![CDATA[y esperar siempre que el camino no tenga final.]]></text>
-		<text id="6" time="00:00:33,400 --> 00:00:40,400"><![CDATA[Tengo mucha curiosidad, tanto por el mundo, como por las diferentes ]]><br/><![CDATA[culturas y los diferentes tipos de personas.]]></text>
-		<text id="7" time="00:00:40,400 --> 00:00:45,300"><![CDATA[Es mi curiosidad y mi egoísmo lo que hace ]]><br/><![CDATA[que quiera descubrirlo por mí mismo.]]></text>
-		<text id="8" time="00:00:45,300 --> 00:00:48,400"><![CDATA[Es lo que me motiva para hacer proyectos nuevos.]]></text>
-		<text id="9" time="00:00:48,400 --> 00:00:54,300"><![CDATA[He tenido la suerte de atraer público ]]><br/><![CDATA[que me acompaña en este viaje.]]></text>
-		<text id="10" time="00:00:55,100 --> 00:01:01,500"><![CDATA[En cierto modo, me gusta prepararme, analizarlo y aprender para ]]><br/><![CDATA[descubrir cómo es mi propio punto de vista sobre algo nuevo. ]]></text>
-		<text id="11" time="00:01:01,500 --> 00:01:04,300"><![CDATA[Por otro lado, no quiero saber demasiado de antemano.]]></text>
-		<text id="12" time="00:01:04,300 --> 00:01:12,400"><![CDATA[La mayoría de las veces actuo de ambas formas: ]]><br/><![CDATA[me preparo un poco, pero estoy abierto a las sorpresas.]]></text>
+		<text id="1" time="00:00:01,200 --# 00:00:03,600"><![CDATA[¿Fracasar? ¿Eso qué es? ]]></text>
+		<text id="2" time="00:00:10,900 --# 00:00:13,300"><![CDATA[Es verdad, alguna vez lo he oído.]]></text>
+		<text id="3" time="00:00:13,300 --# 00:00:18,300"><![CDATA[Pero no es más que un tópico, porque no se puede tener éxito ]]><br/><![CDATA[sin haber fracasado alguna vez.]]></text>
+		<text id="4" time="00:00:20,000 --# 00:00:23,400"><![CDATA[Atreverse con algo es un modo de vida para mí.]]></text>
+		<text id="5" time="00:00:23,400 --# 00:00:32,300"><![CDATA[Significa descubrir cosas continuamente, tener curiosidad ]]><br/><![CDATA[y esperar siempre que el camino no tenga final.]]></text>
+		<text id="6" time="00:00:33,400 --# 00:00:40,400"><![CDATA[Tengo mucha curiosidad, tanto por el mundo, como por las diferentes ]]><br/><![CDATA[culturas y los diferentes tipos de personas.]]></text>
+		<text id="7" time="00:00:40,400 --# 00:00:45,300"><![CDATA[Es mi curiosidad y mi egoísmo lo que hace ]]><br/><![CDATA[que quiera descubrirlo por mí mismo.]]></text>
+		<text id="8" time="00:00:45,300 --# 00:00:48,400"><![CDATA[Es lo que me motiva para hacer proyectos nuevos.]]></text>
+		<text id="9" time="00:00:48,400 --# 00:00:54,300"><![CDATA[He tenido la suerte de atraer público ]]><br/><![CDATA[que me acompaña en este viaje.]]></text>
+		<text id="10" time="00:00:55,100 --# 00:01:01,500"><![CDATA[En cierto modo, me gusta prepararme, analizarlo y aprender para ]]><br/><![CDATA[descubrir cómo es mi propio punto de vista sobre algo nuevo. ]]></text>
+		<text id="11" time="00:01:01,500 --# 00:01:04,300"><![CDATA[Por otro lado, no quiero saber demasiado de antemano.]]></text>
+		<text id="12" time="00:01:04,300 --# 00:01:12,400"><![CDATA[La mayoría de las veces actuo de ambas formas: ]]><br/><![CDATA[me preparo un poco, pero estoy abierto a las sorpresas.]]></text>
 	</group>
 </languageData>
