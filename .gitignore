@@ -4,6 +4,9 @@
 # Node Modules
 .node_modules/
 
+# Projects
+_PROJECTS/
+
 # User-specific stuff:
 .idea/**/workspace.xml
 .idea/**/tasks.xml
